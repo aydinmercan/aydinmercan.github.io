@@ -1,13 +1,17 @@
-#+TITLE: About
+---
+title: About
+---
 
-I am Aydin Mercan (=/ˈaɪdɪn merdʒan/=), a sophomore CEng student at TOBB ETU. I am interested in security, cryptography and
+I am Aydin Mercan (`/ˈaɪdɪn merdʒan/`), a sophomore CEng student at TOBB ETU. I am interested in security, cryptography and
 hardware description but I aim to share knowledge I stumble on from a broad of topics includings interests such as mathematics.
 
-* Gear
+# Gear
 
 Currently, I work on a Thinkpad E495 or my desktop. Those systems run Arch Linux since most sane distributions more or less work
 with similar toolchains.
 
-* Name
+# Name
 
 I have several legal variations of my name depending on where you ask me. However, Jaiden with any pronoun is fine by me.
+
+*This page will be expanded some time :p*

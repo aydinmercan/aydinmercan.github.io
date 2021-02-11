@@ -1,0 +1,30 @@
+#+TITLE: Identity Keys
+
+* Age
+    :PROPERTIES:
+    :CUSTOM_ID: age
+    :END:
+
+- =age1hqwq0yp3stqxqmwe79vl2m3fv438xpealxsd7ehdeg2mhkvgqshqfgee7x=
+
+* Minisign/Signify
+    :PROPERTIES:
+    :CUSTOM_ID: minisign
+    :END:
+
+- =RWQK6C+naHpMTM59i6ajFKD8JXYpPE2lDN+GKWR/2xLNrEJ5GP5nWfoa=
+
+* PGP
+    :PROPERTIES:
+    :CUSTOM_ID: pgp
+    :END:
+
+/**Don't use PGP for securing communications.**/
+    - [[https://latacora.micro.blog/2019/07/16/the-pgp-problem.html][It is bad and outdated as a platform.]]
+    - [[https://twitter.com/FiloSottile/status/1355194247482384392][It refuses to follow proper development practices.]]
+    - [[https://efail.de/][It is a gun that automatically points to your gun for no benefit.]]
+
+However it is the only way to sign git commits. As a result I will have a single sign-only key
+that will /not/ be uploaded to a keypool.
+
+- [[/keys/aydinmercan.pgp][Ed25519 Public key]]

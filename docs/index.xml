@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aydin Mercan&#39;s Blog</title>
+    <link>http://mercan.dev/</link>
+    <description>Recent content on Aydin Mercan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://mercan.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://mercan.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mercan.dev/about/</guid>
+      <description>I am Aydin Mercan (/ˈaɪdɪn merdʒan/), a sophomore CEng student at TOBB ETU. I am interested in security, cryptography and hardware description but I aim to share knowledge I stumble on from a broad of topics includings interests such as mathematics.
+Gear   Currently, I work on a Thinkpad E495 or my desktop. Those systems run Arch Linux since most sane distributions more or less work with similar toolchains.</description>
+    </item>
+    
+    <item>
+      <title>Contact Information</title>
+      <link>http://mercan.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mercan.dev/contact/</guid>
+      <description>E-Mail    Primary: aydin [at] mercan [dot] dev
+  Backup: aydinmercandev [at] gmail [dot] com
+  Please prefer plain-text e-mail.
+  I do not use PGP for e-mail.
+    Signal    Contact me at plus nine zero five three two six five three two eight five seven
+  Keep in mind that I currently reside in UTC+3 and expect answers accordingly.</description>
+    </item>
+    
+    <item>
+      <title>Identity Keys</title>
+      <link>http://mercan.dev/keys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mercan.dev/keys/</guid>
+      <description>Age    age1hqwq0yp3stqxqmwe79vl2m3fv438xpealxsd7ehdeg2mhkvgqshqfgee7x
+    Minisign/Signify    RWQK6C+naHpMTM59i6ajFKD8JXYpPE2lDN+GKWR/2xLNrEJ5GP5nWfoa
+    PGP   Don&amp;#39;t use PGP for securing communications.
+  It is bad and outdated as a platform.
+  It refuses to follow proper development practices.
+  It is a gun that automatically points to your gun for no benefit.
+  However it is the only way to sign git commits.</description>
+    </item>
+    
+  </channel>
+</rss>

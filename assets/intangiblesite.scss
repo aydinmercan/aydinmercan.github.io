@@ -1,0 +1,42 @@
+$black: #080808;
+$background: #EEEEEE;
+
+html {
+    font-family: 'Cantarell';
+    background-color: $background;
+    color: $black;
+}
+
+header {
+    color: #9477CB;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+footer {
+    color: #898989;
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+main {
+    display: block;
+    margin: 6rem auto 0 auto;
+    max-width: 900px;
+    line-height: 1.45;
+    overflow-wrap: break-word;
+    text-align: justify;
+}
+
+body {
+    margin: 0.75em 0;
+    padding: 0.5em;
+    font-size: 17px;
+
+    table {
+        margin: 0 auto 0 auto;
+    }
+}

@@ -1,0 +1,17 @@
+baseURL = "http://mercan.dev"
+languageCode = "en-us"
+title = "Aydin Mercan's Blog"
+publishDir = "docs"
+
+[permalinks]
+article = "/:year/:month/:filename/"
+
+[markup]
+
+[markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    style = "dracula"
+    lineNos = true
+    lineNoStart = 1
+    tabWidth = 4

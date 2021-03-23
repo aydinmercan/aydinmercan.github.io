@@ -1,6 +1,6 @@
 baseURL = "http://mercan.dev"
 languageCode = "en-us"
-title = "Aydin Mercan's Blog"
+title = "Aydin Mercan"
 publishDir = "docs"
 
 [permalinks]

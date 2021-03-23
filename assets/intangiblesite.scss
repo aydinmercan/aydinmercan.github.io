@@ -1,6 +1,30 @@
 $black: #080808;
 $background: #EEEEEE;
 
+.left {
+  left: 0;
+}
+
+.right {
+  right: 0;
+}
+
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 15%;
+    font-size: 1.8rem;
+}
+
 html {
     font-family: 'Cantarell';
     background-color: $background;
@@ -10,9 +34,17 @@ html {
 header {
     color: #9477CB;
     position: absolute;
+    padding-top: 1%;
     width: 100%;
     top: 0;
     left: 0;
+
+    .container {
+        font-size: 1.5rem;
+        li {
+            display: inline-block;
+        }
+    }
 }
 
 footer {
@@ -28,7 +60,22 @@ main {
     max-width: 900px;
     line-height: 1.45;
     overflow-wrap: break-word;
-    text-align: justify;
+
+    h1 {
+        font-size: 3rem;
+    }
+}
+
+article {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    font-size: 1.1rem;
 }
 
 body {

@@ -1,1 +1,22 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+    {{ $style := resources.Get "intangiblesite.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+</head>
+
+
+<div class="split right">
+    Aydin Mercan
+    <ul>
+        <li><a href="/about">About Me</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/document/resume_aydin_mercan.pdf">Resume</a></li>
+        <li><a href="/equipment">Personal Equipment</a></li>
+        <li><a href="/keys">Keys</a></li>
+    </ul>
+</div>
+
+</html>

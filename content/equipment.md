@@ -19,12 +19,14 @@ title: Personal Equipment
 ## Computing
 
 * **Desktop**
-    * It currently rocks an i7-4790 with NVIDIA GTX 960.
+    * It currently rocks an i7-4790 with a NVIDIA GTX 960.
     * Currently it runs [Arch](https://archlinux.org).
 
-* **Thinkpad X220**
 * **Thinkpad E495**
-    * Currently they both run [Fedora 33](https://getfedora.org).
+    * Currently it runs [Fedora 34 Beta](https://getfedora.org).
+
+* **Thinkpad X220**
+    * Currently it runs [FreeBSD 13.0-RELEASE](https://www.freebsd.org).
 
 
 ## FPGA
@@ -43,7 +45,7 @@ title: Personal Equipment
 * Ideally it shoul mostly work with the yosys + nextpnr workflow.
 
 [tarsnap]: https://www.tarsnap.com "Best backup service"
-[wireguard]: https://www.wireguard.com "Sane VPN"
+[wireguard]: https://www.wireguard.com "Finally, sanity"
 [binja]: https://binary.ninja/ "Binary Ninja"
 [kicad]: https://kicad.org "yes."
 [godot]: https://godotengine.org/ "Godot Engine"

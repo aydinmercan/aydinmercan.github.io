@@ -15,7 +15,6 @@ title: Identity Keys
 ***Don't use PGP for securing communications.***
 
 * [It is bad and outdated as a platform.][latacora_pgp_bad]
-
 * [It refuses to follow proper development practices.][libgcrypt_no_asan]
 * [It is a gun that automatically points to your gun for no benefit.][efail]
 

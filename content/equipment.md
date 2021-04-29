@@ -11,6 +11,9 @@ title: Personal Equipment
 * **[Binary Ninja][binja]**
     * Personally my favourite reverse engineering/analysis software.
 
+* **[Kitty][kitty]**
+    * Not only its GPU accelerated (like Alacritty), it has font per unicode region support and ligatures.
+
 * **[KiCad][kicad], [Godot][godot], [Ardour][ardour], [Blender][blender] and [Krita][krita]**
     * I am not a professional in these areas so I just use powerful but open software that does the job for me.
 
@@ -19,18 +22,17 @@ title: Personal Equipment
 ## Computing
 
 * **Desktop**
-    * It currently rocks an i7-4790 with a NVIDIA GTX 960.
+    * It currently has an i7-4790 with a NVIDIA GTX 960.
     * Currently it runs [Arch](https://archlinux.org).
 
 * **Thinkpad E495**
-    * Currently it runs [Fedora 34 Beta](https://getfedora.org).
+    * Currently it runs [Fedora 34](https://getfedora.org).
 
 * **Thinkpad X220**
-    * Currently it runs [FreeBSD 13.0-RELEASE](https://www.freebsd.org).
+    * Currently it runs [Alpine Edge](https://www.alpinelinux.org).
 
-
-## FPGA
 * **Basys 3 (Artix-7)**
+    * Unfortunately I couldn't find a resonably priced iCE FPGA here so I am stuck with depending on Vivado.
 
 # Future Plans
 
@@ -42,13 +44,14 @@ title: Personal Equipment
 
 ## More FPGAs
 
-* Ideally it shoul mostly work with the yosys + nextpnr workflow.
+* Ideally it should be compatible with the yosys + nextpnr workflow.
 
+[ardour]: https://ardour.org "To be honest I don't use it at all"
+[binja]: https://binary.ninja/ "Binary Ninja"
+[blender]: https://www.blender.org "A pretty boring and solid choice"
+[godot]: https://godotengine.org/ "Godot Engine"
+[kicad]: https://kicad.org "yes."
+[kitty]: https://sw.kovidgoyal.net/kitty/ "Best terminal"
+[krita]: https://krita.org "Pretty fun to use"
 [tarsnap]: https://www.tarsnap.com "Best backup service"
 [wireguard]: https://www.wireguard.com "Finally, sanity"
-[binja]: https://binary.ninja/ "Binary Ninja"
-[kicad]: https://kicad.org "yes."
-[godot]: https://godotengine.org/ "Godot Engine"
-[ardour]: https://ardour.org "To be honest I don't use it at all"
-[blender]: https://www.blender.org "A pretty boring and solid choice"
-[krita]: https://krita.org "Pretty fun to use"

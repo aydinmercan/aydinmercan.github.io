@@ -23,4 +23,4 @@ title: Contact
 * [SourceHut](https://sr.ht/~aydinmercan)
 * [Twitter](https://twitter.com/aydinmercan_dev)
 
-* `amercan` on Freenode IRC
+* `jmercan` on OFTC and LiberaChat IRC
